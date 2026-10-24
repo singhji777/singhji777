@@ -52,27 +52,7 @@ development, data analytics, business intelligence and problem-solving**.
 
 ---
 
-## Featured Projects
-
-### Java Full-Stack Project
-
-A full-stack application developed to strengthen my understanding of
-application development, backend logic and software architecture.
-
-**Technologies:** `Java` `Spring` `HTML` `CSS` `JavaScript`
-
----
-
-### Spring Project
-
-A Java Spring-based application focused on backend development,
-application structure and understanding modern Java development practices.
-
-**Technologies:** `Java` `Spring`
-
----
-
-## Analytics Portfolio
+## Featured Projects: Data Analytics
 
 Six end-to-end data projects, each with a README, an executed notebook and documented limitations.
 
@@ -90,6 +70,26 @@ Next up: a Power BI dashboard built on the e-commerce data.
 My approach:
 
 **Problem → Data → Analysis → Insight → Recommendation**
+
+---
+
+## Other Projects (Java)
+
+### Java Full-Stack Project
+
+A full-stack application developed to strengthen my understanding of
+application development, backend logic and software architecture.
+
+**Technologies:** `Java` `Spring` `HTML` `CSS` `JavaScript`
+
+---
+
+### Spring Project
+
+A Java Spring-based application focused on backend development,
+application structure and understanding modern Java development practices.
+
+**Technologies:** `Java` `Spring`
 
 ---
 
