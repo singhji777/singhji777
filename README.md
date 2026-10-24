@@ -74,17 +74,18 @@ application structure and understanding modern Java development practices.
 
 ## Analytics Portfolio
 
-I am currently building a portfolio focused on practical data and
-business problems.
+Six end-to-end data projects, each with a README, an executed notebook and documented limitations.
 
-### Projects in Development
+| Project | What it shows | Tools |
+|---|---|---|
+| [Churn Prediction & Retention ROI](https://github.com/singhji777/telco-churn-prediction-roi) | Churn model with calibration that picks who to contact by expected profit (public IBM sample data) | Python, scikit-learn |
+| [E-commerce Customer Analytics](https://github.com/singhji777/ecommerce-customer-analytics) | 541k real transactions: 12 SQL queries, cohorts, RFM, a customer-value model validated on later periods, market basket | SQL, Python |
+| [Sales Forecasting & Backtesting](https://github.com/singhji777/sales-forecasting-backtesting) | Rolling backtests of six forecasting methods with prediction intervals | Python, statsmodels |
+| [Retail Sales & RFM Segmentation](https://github.com/singhji777/retail-sales-rfm-analysis) | Profitability, discount impact and RFM customer segments (synthetic data) | Python, Pandas |
+| [Food Delivery SQL Analytics](https://github.com/singhji777/food-delivery-sql-analytics) | 10 SQL queries: CTEs, window functions, cohort retention (synthetic data) | SQL |
+| [A/B Test: Checkout Redesign](https://github.com/singhji777/ab-test-checkout-redesign) | Power, z-test, confidence intervals and segment effects (synthetic data) | Python, SciPy |
 
-- SQL Business & Sales Analysis
-- Python Data Analysis
-- Power BI Business Dashboard
-- Customer Behaviour Analysis
-- Machine Learning Project
-- Data-Driven Business Case Study
+Next up: a Power BI dashboard built on the e-commerce data.
 
 My approach:
 
