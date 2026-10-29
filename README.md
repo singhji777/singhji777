@@ -7,6 +7,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/aditya-singh-5429b0308/"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://singhji777.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-3DDC97?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/></a>
 <a href="https://github.com/singhji777/"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br>
@@ -29,7 +30,7 @@ My approach: **Problem → Data → Analysis → Insight → Recommendation**
 
 ## 📊 Data Analytics Portfolio
 
-Six end-to-end projects. Each one has a business question, a documented method, an executed notebook, charts, and honest limitations. Projects 1-3 use synthetic data; the others use public datasets (UCI Online Retail, IBM Telco sample).
+Six end-to-end projects. Each one has a business question, a documented method, an executed notebook, charts, and honest limitations. Projects 1-3 use public datasets (IBM Telco sample, UCI Online Retail); projects 4-6 use synthetic sample data and are labelled that way.
 
 ### 1 · Customer Churn Prediction & Retention ROI
 
@@ -184,16 +185,16 @@ Full analysis of a 64k-user experiment, from randomisation checks to a ship deci
 ## 🛠️ Technical Skills
 
 <p>
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Power%20BI%20(learning)-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Power%20BI%20(learning)-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI (learning)"/>
 </p>
 
 | Category | Technologies |
